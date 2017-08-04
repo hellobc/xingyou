@@ -1,0 +1,21 @@
+{  
+  "domainUrl":"http://th-china.7128832.com",
+  "updateUrl":"http://th.yba8.com",
+  "branches":[  
+    {  
+      "code":"1000",
+      "version":"1.0.0",
+      "status":"deprecated"
+    },
+    {  
+      "code":"1001",
+      "version":"1.0.1",
+      "status":"release"
+    },
+    {  
+      "code":"1002",
+      "version":"1.0.2",
+      "status":"release"
+    }
+  ]
+}
