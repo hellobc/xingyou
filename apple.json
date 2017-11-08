@@ -1,26 +1,11 @@
 {  
-  "domainUrl":"http://xy-china.7128832.com",
-  "updateUrl":"http://xy.yba8.com",
+  "domainUrl":"http://xy-china2.7138852.com",
+  "updateUrl":"http://xy-app.yba8.com",
   "branches":[  
-    {  
-      "code":"1000",
-      "version":"1.0.0",
-      "status":"deprecated"
-    },
-    {  
-      "code":"1001",
-      "version":"1.0.1",
-      "status":"deprecated"
-    },
-    {  
-      "code":"1002",
-      "version":"1.0.2",
-      "status":"deprecated"
-    },
     {  
       "code":"1003",
       "version":"1.0.3",
-      "status":"release"
+      "status":"deprecated"
     },
     {  
       "code":"1004",
